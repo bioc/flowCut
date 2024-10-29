@@ -2,7 +2,7 @@ Package: flowCut
 Type: Package
 Title: Automated Removal of Outlier Events and Flagging
         of Files Based on Time Versus Fluorescence Analysis
-Version: 1.15.0
+Version: 1.16.0
 Date: 2022-03-24
 Authors@R: c(person("Justin","Meskas", role=c("cre","aut"), email="justinmeskas@gmail.com"),
                       person("Sherrie","Wang", role = "aut"))
